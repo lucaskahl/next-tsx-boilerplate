@@ -48,22 +48,22 @@ exports[`<Main /> should render the heading 1`] = `
   class="c0"
 >
   <img
-    alt="Imagem de um átomo e React Avançado escrito ao lado"
+    alt="Image of an Atom and Advanced React written on the side"
     class="c1"
     src="/img/logo.svg"
   />
   <h1
     class="c2"
   >
-    React avançado
+    Custom Next Typescript
   </h1>
   <h2
     class="c3"
   >
-    Typescript, ReactJS, NextJS e Styled Components
+    Typescript, ReactJS, NextJS and Styled Components
   </h2>
   <img
-    alt="Ilustração de um usuário a frente do computador"
+    alt="Illustration of a user in front of the computer"
     class="c4"
     src="/img/illustration.svg"
   />
