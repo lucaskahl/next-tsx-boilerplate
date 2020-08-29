@@ -2791,23 +2791,23 @@
     npmlog "^4.1.2"
     pretty-hrtime "^1.0.3"
 
-"@storybook/postinstall@6.0.20":
-  version "6.0.20"
-  resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.0.20.tgz#ec23e2362311f2ba81fb0dc8d3e772a4341a21a7"
-  integrity sha512-QDzGzDFxAGVq591BdeMJnV55m3zJxFD8dcP+FiUhQ6xmiUB+c4QK3JuJtutwmGLiL6MnKvq0x/yHSYg09BMAvg==
+"@storybook/postinstall@6.0.10":
+  version "6.0.10"
+  resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.0.10.tgz#15172bfa6c9d2717626fc77bea659a617f2334e9"
+  integrity sha512-YQFeI1J1My0/SudkOaThk2A0GIAmu3D0++jG/cEzUWUWbmGvc00dowIbWd8rKyvqGtMvlORACg3qvY1s1YVVDw==
   dependencies:
     core-js "^3.0.1"
 
-"@storybook/react@6.0.10":
-  version "6.0.10"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.0.10.tgz#38e83ec6b09f673d35b1a523c4e51d510c8e62e8"
-  integrity sha512-QT7FAYqlzwOydW6Vhoi46Iy+pdvvR3IhMML1thsEplVMUZtOc/Ha+v0DneQ0MrDP070y4SwAWZuBAkJ7KPBl9w==
+"@storybook/react@6.0.20":
+  version "6.0.20"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.0.20.tgz#bf5ab1f291918ad74f1f7777af494b85eec993dd"
+  integrity sha512-+OQwsCY0IFG2HnirwcoSACJiLQK4F0iJxaJO1xzXkouYHNOLeCpRt9fjn8OdhPNyDZSr0SvU7U9k5p1U+6N0Og==
   dependencies:
     "@babel/preset-flow" "^7.0.0"
     "@babel/preset-react" "^7.0.0"
-    "@storybook/addons" "6.0.10"
-    "@storybook/core" "6.0.10"
-    "@storybook/node-logger" "6.0.10"
+    "@storybook/addons" "6.0.20"
+    "@storybook/core" "6.0.20"
+    "@storybook/node-logger" "6.0.20"
     "@storybook/semver" "^7.3.2"
     "@svgr/webpack" "^5.4.0"
     "@types/webpack-env" "^1.15.2"
