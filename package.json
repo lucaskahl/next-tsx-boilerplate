@@ -35,7 +35,7 @@
     "@babel/core": "^7.23.7",
     "@babel/preset-typescript": "^7.23.3",
     "@storybook/addon-essentials": "7.6.10",
-    "@storybook/react": "7.6.10",
+    "@storybook/react": "7.6.17",
     "@testing-library/jest-dom": "^6.4.1",
     "@testing-library/react": "^12.1.5",
     "@types/jest": "^29.5.11",
